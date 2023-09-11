@@ -1,13 +1,15 @@
-/* .article img {
-  width: 45rem;
-  height: auto;
+.featured img {
+  width: 100%;
+  height: 250px;
   object-fit: cover;
   object-position: center;
+  padding: 1rem 0rem;
 }
 
-.pb3 img {
-  width: 45rem;
-  height: auto;
+/* .article img {
+  width: 100%;
+  height: 450px;
   object-fit: cover;
   object-position: center;
+  padding: 1rem 0rem;
 } */
